@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+pickle-mixin
+matplotlib
+nltk
+emoji
+wordcloud
+tensorflow
+numpy
