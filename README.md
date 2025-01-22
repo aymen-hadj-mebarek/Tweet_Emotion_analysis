@@ -45,7 +45,11 @@ Both models are trained and evaluated on a labeled dataset of text samples with 
     The project requires additional NLTK data resources. Run the following commands in a Python shell:
     
     ```python
-    import nltk nltk.download('stopwords') nltk.download('punkt') nltk.download('averaged_perceptron_tagger') nltk.download('wordnet')
+    import nltk
+    nltk.download('stopwords')
+    nltk.download('punkt')
+    nltk.download('averaged_perceptron_tagger')
+    nltk.download('wordnet')
     ```
     
 4. **Dataset**: Place your dataset (`data.csv`) in the root directory. The dataset should contain two columns:
